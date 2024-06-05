@@ -39,7 +39,7 @@ var lyr_MergedOB_2024_2 = new ol.layer.Vector({
                 source:jsonSource_MergedOB_2024_2, 
                 style: style_MergedOB_2024_2,
                 popuplayertitle: "MergedOB_2024",
-                interactive: true,
+                interactive: false,
     title: 'MergedOB_2024<br />\
     <img src="styles/legend/MergedOB_2024_2_0.png" /> 01/2024<br />\
     <img src="styles/legend/MergedOB_2024_2_1.png" /> 01/2024 - 02/2024<br />\
@@ -78,7 +78,7 @@ var lyr_MergedOB_2025_3 = new ol.layer.Vector({
                 source:jsonSource_MergedOB_2025_3, 
                 style: style_MergedOB_2025_3,
                 popuplayertitle: "MergedOB_2025",
-                interactive: true,
+                interactive: false,
     title: 'MergedOB_2025<br />\
     <img src="styles/legend/MergedOB_2025_3_0.png" /> 01/2025<br />\
     <img src="styles/legend/MergedOB_2025_3_1.png" /> 01/2025 - 02/2025<br />\
@@ -117,7 +117,7 @@ var lyr_MergedOB_2026_4 = new ol.layer.Vector({
                 source:jsonSource_MergedOB_2026_4, 
                 style: style_MergedOB_2026_4,
                 popuplayertitle: "MergedOB_2026",
-                interactive: true,
+                interactive: false,
     title: 'MergedOB_2026<br />\
     <img src="styles/legend/MergedOB_2026_4_0.png" /> 01/2026<br />\
     <img src="styles/legend/MergedOB_2026_4_1.png" /> 01/2026 - 02/2026<br />\
